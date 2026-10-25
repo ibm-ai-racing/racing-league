@@ -40,4 +40,5 @@ C:\RaceYourCode\
 
 ## Need help?
 
-Join our [Discord community](https://discord.gg/KXhqwKqnB2) for announcements, Q&A, and collaboration. The last chapter of the PDF guide also has a troubleshooting section.
+Join our IBM AI Racing League Discord community for any support,  announcements, Q&A, and collaboration (you get an invitation link once you register for the competition).
+The last chapter of the PDF guide also has a troubleshooting section.
